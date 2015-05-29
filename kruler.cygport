@@ -6,3 +6,5 @@ RELEASE=1
 CATEGORY="Graphics"
 SUMMARY="KDE screen ruler"
 DESCRIPTION="Part of the KDE graphics suite"
+
+REQUIRES="kde-runtime"
